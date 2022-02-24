@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Cristian Krone;
-- 👀 I’m interested in acquire knowledge in the area of technology;
-- 🌱 I’m currently finishing a technical course in systems development, learning HTML5, CSS, JAVASCRIPT, JAVA, Language C, Database;
-- 💞️ I’m looking to collaborate on projects to gain experience;
-- 📫 How to reach me cristian_krone@hotmail.com
+- 👋 Olá! Me chamo Cristian Krone e tenhgo 26 anos;
+- 👀 Procuro oportunidades como desenvolvedor;
+- 🌱 Tenho Técnico Desenvolvimento de Sistemas pelo Instituto Federal de Santa Catarina onde aprendi e apliquei em trabalhos HTML5, CSS, JAVASCRIPT, JAVA, Linguagem C, Banco de dados (MySQL e PostgreSQL) e PHP;
+- 💞️ Quero divulgar meus trabalhos, ajudar e crescer junto com a comunidade;
+- 📫 Meu e-mail é:  cristian_krone@hotmail.com
 
 <!---
 CKrone/CKrone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
