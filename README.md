@@ -1,6 +1,6 @@
 <div>
-  <a href="https://www.linkedin.com/in/cristian-krone-a46b6b211/" >
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckrone&show_icons=true&theme=dark)
+  <a href="https://www.linkedin.com/in/cristian-krone-a46b6b211/">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ckrone&show_icons=true&theme=dark">
 </div>
 - 👋 Olá! Me chamo Cristian Krone e tenho 27 anos e atualmente trabalho na Easy Communication & Technology auxiliando na criação de funções na plataforma interna, relacionado ao CRM e cadastro de talentos; 
 - 🌱 Tenho Técnico Desenvolvimento de Sistemas pelo Instituto Federal de Santa Catarina onde aprendi e apliquei em trabalhos HTML5, CSS, JAVASCRIPT, JAVA, Linguagem C, Banco de dados (MySQL e PostgreSQL) e PHP;
