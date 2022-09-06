@@ -4,6 +4,7 @@
 - 📫 Meu e-mail é:  cristian_krone@hotmail.com
 
 <div>
+    <a href="https://www.linkedin.com/in/cristian-krone-a46b6b211">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ckrone&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckrone&layout=compact&theme=dark"/>
 </div>
