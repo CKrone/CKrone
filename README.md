@@ -1,4 +1,4 @@
-- 👋 Olá! Me chamo Cristian Krone e tenho 27 anos e atualmente trabalho na Easy Communication & Technology auxiliando na criação de funções na plataforma Low-Code interna, relacionado ao CRM e ERP. Dentro da plataforma Low-Code utilizo também HTML, CSS e JavaScript para atingir o objetivo especificado.
+- 👋 Olá! Me chamo Cristian Krone e tenho 27 anos e atualmente em busca de uma oportunidade na área de tecnologia;
 - 🌱 Tenho Técnico Desenvolvimento de Sistemas pelo Instituto Federal de Santa Catarina;
 - 💞️ Quero divulgar meus trabalhos, ajudar e crescer junto com a comunidade;
 - 📫 Meu e-mail é:  cristian_krone@hotmail.com
