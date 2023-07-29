@@ -1,4 +1,4 @@
-- 👋 Olá! Me chamo Cristian Krone e tenho 27 anos e atualmente trabalho como Analista de CRM JR na UNICRED;
+- 👋 Olá! Me chamo Cristian Krone e tenho 28 anos e atualmente trabalho como Analista de CRM JR na UNICRED;
 - 🌱 Tenho Técnico Desenvolvimento de Sistemas pelo Instituto Federal de Santa Catarina;
 - 💞️ Quero divulgar meus trabalhos, ajudar e crescer junto com a comunidade;
 - 📫 Meu e-mail é:  cristian_krone@hotmail.com
